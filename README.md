@@ -22,11 +22,11 @@ Karadeniz Teknik Üniversitesi, Of Teknoloji Fakültesi, Yazılım Mühendisliğ
 
 | Üye            | Görev |
 |----------------|-------|
-| Esra Karaca    | Sunucu |
-| Sudenaz Koçak  | İstemci |
-| Zülal Çakır    | İstemci |
+| Esra Karaca    | Sunucu + Protokol |
+| Sudenaz Koçak  | İstemci Arayüzü + Dosya Gönderimi |
+| Zülal Çakır    | Anahtar Dağıtım Yöntemleri + Manuel AES |
 
-Diğer işlerin (anahtar dağıtım yöntemleri, kütüphanesiz AES, Wireshark, rapor) dağılımı çalışma ilerledikçe bu tabloya eklenecektir.
+Wireshark analizleri ve rapor yazımı tüm grup üyeleri tarafından ortaklaşa yapılacaktır.
 
 ## Kurulum ve Çalıştırma
 
